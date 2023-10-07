@@ -1,0 +1,21 @@
+.foot{
+    box-shadow: 0 -5px 6px -7px;
+}
+
+.lien1{
+    float: left;
+    margin-left: 50px;
+    margin-top: 45px;
+}
+
+.lien2{
+    margin-left: 30%;
+}
+
+.lien2 h2{
+    padding-top: 10px;
+}
+
+.lien2 p{
+    padding-left: 30px;
+}
